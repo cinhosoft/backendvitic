@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.example.apivitic.ApiviticApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.441 s <<< FAILURE! - in com.example.apivitic.ApiviticApplicationTests
+com.example.apivitic.ApiviticApplicationTests  Time elapsed: 0.44 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

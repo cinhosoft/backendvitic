@@ -1,0 +1,16 @@
+co\com\vitic\apivitic\service\impl\ModelServiceImpl.class
+co\com\vitic\apivitic\repository\UsuarioRepository.class
+co\com\vitic\apivitic\exception\NoSuchResourceFoundException.class
+co\com\vitic\apivitic\repository\ModelRepository.class
+co\com\vitic\apivitic\service\impl\UsuarioServiceImpl.class
+co\com\vitic\apivitic\controller\ModelController.class
+co\com\vitic\apivitic\ApiviticApplication.class
+co\com\vitic\apivitic\service\IUsuarioService.class
+co\com\vitic\apivitic\config\JWTAuthorizationFilter.class
+co\com\vitic\apivitic\model\Usuario.class
+co\com\vitic\apivitic\exception\BadResourceRequestException.class
+co\com\vitic\apivitic\model\Model.class
+co\com\vitic\apivitic\controller\AuthController.class
+co\com\vitic\apivitic\util\JWTUtil.class
+co\com\vitic\apivitic\service\IModelService.class
+.netbeans_automatic_build
